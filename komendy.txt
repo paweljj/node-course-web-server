@@ -1,1 +1,5 @@
 nodemon server.js -e js,hbs
+
+git push -u origin master
+
+git push heroku master
