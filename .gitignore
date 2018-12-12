@@ -1,0 +1,11 @@
+
+.idea/encodings.xml
+.idea/jsLibraryMappings.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/node-web-server.iml
+.idea/saveactions_settings.xml
+.idea/workspace.xml
+node_modules/
+package-lock.json
+server.log
